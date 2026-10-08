@@ -1,4 +1,4 @@
-## 복잡한 비즈니스 로직을 이해하고, 안정적인 시스템으로 구현하는 개발자 조영서입니다. 😎<br>
+## 복잡한 비즈니스 로직을 이해하고, 안정적인 시스템으로 구현하는 개발자 조영서입니다. <br>
 
 📧 **Email** : [dudrhy12@gmail.com](mailto:dudrhy12@gmail.com)<br>
 📝 **Tech Blog** : [y-seo의 딩코 기록들](https://y-seo.tistory.com/)<br>
