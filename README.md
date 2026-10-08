@@ -1,4 +1,8 @@
-## 복잡한 비즈니스 로직을 이해하고, 안정적인 시스템으로 구현하는 개발자 조영서입니다. <br>
+## 복잡한 문제를 안정적인 시스템으로 구현하는 개발자, 조영서 <br>
+복잡한 비즈니스 로직과 도메인을 이해하고, 이를 견고한 구조로 설계하는 것을 중요하게 생각합니다. 
+안정적인 서비스를 만들기 위해 문제의 본질을 파악하고, 지속적으로 개선해 나가는 개발자입니다.
+
+
 
 📧 **Email** : [dudrhy12@gmail.com](mailto:dudrhy12@gmail.com)<br>
 📝 **Tech Blog** : [y-seo의 딩코 기록들](https://y-seo.tistory.com/)<br>
@@ -80,5 +84,6 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/asana-%23F06A6A.svg?&style=for-the-badge&logo=asana&logoColor=white" />
+<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 </div>
-
